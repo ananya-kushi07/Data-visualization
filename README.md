@@ -1,1 +1,1 @@
-This is program with matplotlib usage for sorting in aniamtion
+This is program with matplotlib usage for sorting in animation
